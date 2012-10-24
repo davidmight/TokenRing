@@ -1,6 +1,4 @@
 /**
- * Name: David Byrne
- * Student Id: 09068783
  * @author david
  */
 
